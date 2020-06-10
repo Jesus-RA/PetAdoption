@@ -15,7 +15,7 @@
     <!-- Barra de navegación -->
     <nav>
         <ul class="row">
-            <div class="col-lg-4" id="petAdoption"><li><a href="index.php">Pet Adoption</a></li></div>
+            <div class="col-lg-4" id="petAdoption"><li><a href="index.html">Pet Adoption</a></li></div>
             <div class="col-lg-2"></div>
             <div class="col-lg-6" id="navBtn">
                 <div class="col-lg-3" id="adoptar"><li><a href="adoptar.php">Adoptar</a></li></div>
